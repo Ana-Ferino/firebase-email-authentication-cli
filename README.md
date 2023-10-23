@@ -12,6 +12,15 @@ This project implements a two-step authentication system using Firebase and emai
   - Users can authenticate by providing their email and password created for Firebase.
   - After successful authentication, the user is asked to enter the 6-digit token generated and sent to the email provided.
 
+Example:
+<h6 align="left">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/example_token.PNG" />
+</h6>
+User enters the token received by email and authentication is completed ✔️
+<h6 align="left">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/example_success.png" />
+</h6>
+
 ## How to Run
 
 1. **Firebase Configuration**:
